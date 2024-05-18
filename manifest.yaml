@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: c1
-        image: Harika232002/javapp
+        image: harika232002/javapp 
         ports:
         - containerPort: 8020
         livenessProbe:
